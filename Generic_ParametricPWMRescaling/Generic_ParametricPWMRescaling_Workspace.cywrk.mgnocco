@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling">
+<ExpandedNodeIds>
+<v>Generic_ParametricPWMRescaling_Workspace</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\TopDesign</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Pins</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Analog</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Clocks</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Interrupts</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\DMA</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\System</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Directives</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Flash Security</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\EEPROM</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\command_processing.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\commands.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\device.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\Encoder_functions.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\FIRMWARE_CONFIGURATION.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\globals.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\IMU_functions.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\interruptions.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\SD_RTC_functions.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\utils.h</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Source Files</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Source Files\command_processing.c</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Source Files\Encoder_functions.c</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Source Files\globals.c</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Source Files\IMU_functions.c</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Source Files\interruptions.c</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Source Files\main.c</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Source Files\SD_RTC_functions.c</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Source Files\utils.c</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generated_Source</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Generic_ParametricPWMRescaling_Workspace</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\TopDesign</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Pins</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Analog</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Clocks</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Interrupts</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\DMA</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\System</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Directives</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\Flash Security</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydwr\EEPROM</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Header Files\command_processing.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Generic_ParametricPWMRescaling_Workspace</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\TopDesign</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Generic_ParametricPWMRescaling_Workspace</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\TopDesign</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Generic_ParametricPWMRescaling_Workspace</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_AMux.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_INT.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_IRQ.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_N_CHANNELS_USED.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_N_CHANNELS_USED_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_SOC.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_SOC_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_STATUS.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_theACLK.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\BLINK_05HZ.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\BLINK_05HZ_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\BLINK_25HZ.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\BLINK_25HZ_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\BLINK_CTRL_EN.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\BLINK_CTRL_EN_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\Bootloadable.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\Chip_Select_ENCODER_LINE.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\Chip_Select_ENCODER_LINE_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\Chip_Select_IMU.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\Chip_Select_IMU_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CLK_ENCODER.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CLK_RTC.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CLOCK_ENCODERS.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CLOCK_PWM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CLOCK_PWM_BLINK.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CLOCK_UART.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\Cm3Start.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\command_processing.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\counter_cyc_clk.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\COUNTER_ENC.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\COUNTER_ENC_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CS_ENCODER0.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CS_ENCODER1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CS_on_board_IMU.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CS_RTC.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CS0.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CS1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CS2.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CS3.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CURRENT_SENSE_1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CURRENT_SENSE_2.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\cy_em_eeprom.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CyBootAsmGnu.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\cybootloader.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CYCLES_TIMER.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CYCLES_TIMER_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CyDmac.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\cyfitter_cfg.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CyFlash.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CyLib.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\cymetadata.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\cyPm.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\CySpc.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\cyutils.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\DMA_dma.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\EEPROM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\EMG_1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\EMG_2.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\EMG_3.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\EMG_4.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\EMG_5.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\EMG_6.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\EMG_A.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\EMG_B.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\Encoder_functions.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\FF_STATUS.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\FTDI_ENABLE.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\globals.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\IMU_functions.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\interruptions.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ISR_CYCLES.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ISR_RS485_RX.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\LED_CTRL.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\LED_CTRL_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\LED_GREEN.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\LED_RED.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\main.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MISO.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MISO_ENCODER.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MISO_RTC.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOSI.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOSI_RTC.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_1A.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_1B.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_2A.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_2B.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_DIR_1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_DIR_1_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_DIR_2.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_DIR_2_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_DRIVER_TYPE.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_DRIVER_TYPE_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_EN_1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_EN_2.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_ON_OFF_1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_ON_OFF_1_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_ON_OFF_2.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MOTOR_ON_OFF_2_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MY_TIMER.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MY_TIMER_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MY_TIMER_REG.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\MY_TIMER_REG_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\PACER_TIMER.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\PACER_TIMER_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\PWM_MOTORS.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\PWM_MOTORS_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\RESET_COUNTERS.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\RESET_COUNTERS_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\RESET_FF.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\RESET_FF_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\RS_485_EN.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\RS485_CTS.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SCLK.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_Clock_1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_ConfigMMC_SPI.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_miso0.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_MMC_HW_SPI.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_mosi0.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_RTC_functions.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_sclk0.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_SPI0.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_SPI0_CS.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_SPI0_INT.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SD_SPI0_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SHIFTREG_ENC_1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SHIFTREG_ENC_1_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SHIFTREG_ENC_2.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SHIFTREG_ENC_2_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SHIFTREG_ENC_3.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SHIFTREG_ENC_3_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SPI_IMU.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SPI_IMU_INT.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\SPI_IMU_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\timer_clock.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\UART_RS485.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\UART_RS485_BOOT.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\UART_RS485_INT.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\UART_RS485_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\utils.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\VOLTAGE_SENSE_1.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\VOLTAGE_SENSE_2.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Generic_ParametricPWMRescaling.cyacd</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Generic_ParametricPWMRescaling.elf</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Generic_ParametricPWMRescaling.hex</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Generic_ParametricPWMRescaling.map</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.gpdsc</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.rpt</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Generic_ParametricPWMRescaling_Workspace</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_AMux.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_INT.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_IRQ.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_N_CHANNELS_USED.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_N_CHANNELS_USED_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_PM.lst</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CortexM3\ARM_GCC_541\Release\Listing Files\ADC_SOC.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Generic_ParametricPWMRescaling_Workspace</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\PSoC 5LP Architecture TRM</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CY8C58LP Family Datasheet</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\System Reference Guides</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Generic_ParametricPWMRescaling_Workspace</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\PSoC 5LP Architecture TRM</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\CY8C58LP Family Datasheet</v>
+<v>Generic_ParametricPWMRescaling_Workspace\Generic_ParametricPWMRescaling\System Reference Guides</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\src\interruptions.c" />
+<name v=".\src\globals.h" />
+<name v=".\src\command_processing.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1046, 573" SelectedTabbedMdiWindow="2d4c4c80-8cae-47f0-aa6e-82e1668484b2"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="e6c53592-2600-47bd-bb84-e80a1b9fa9d1" /><DocumentWindow Key="C:\Users\mgnocco\Documents\Git\PSoC5\PSoC5_FW_Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling\src\interruptions.c" Guid="2d4c4c80-8cae-47f0-aa6e-82e1668484b2" /><DocumentWindow Key="C:\Users\mgnocco\Documents\Git\PSoC5\PSoC5_FW_Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling\src\globals.h" Guid="70403d38-f032-46aa-a0a3-36399a012ada" /><DocumentWindow Key="C:\Users\mgnocco\Documents\Git\PSoC5\PSoC5_FW_Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling\src\command_processing.c" Guid="96f5b843-30d9-4292-a714-b41d0e2de569" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="Release" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

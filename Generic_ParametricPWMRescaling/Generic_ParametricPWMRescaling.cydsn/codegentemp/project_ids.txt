@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a659090f-5d26-4b93-a02e-b727e4bd769f
+C:\Users\mgnocco\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|0ea13807-51df-4a66-8b4e-8d5d9eb867fb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|45ad4714-4fb7-4720-865d-1cac289e535b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|fcb0d9a5-43f4-443a-b3ee-a7acb6318063
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|2136066f-0262-4a57-815a-e857b8b81c12
+C:\Users\mgnocco\Documents\Git\PSoC5\PSoC5_FW_Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling\Generic_ParametricPWMRescaling.cydsn\Generic_ParametricPWMRescaling.cyprj|4b25b46f-ac78-4503-bab8-23c2fc5a5639
